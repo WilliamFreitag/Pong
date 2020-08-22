@@ -1,2 +1,2 @@
 # Pong
-A desktop game made in java
+A desktop application clone of Atari's Pong
